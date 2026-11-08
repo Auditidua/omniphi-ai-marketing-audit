@@ -9,7 +9,8 @@ By leveraging coordinated corporate entities and high-pressure social media auto
 
 ## 🚨 The Step-by-Step Deceptive Playbook
 
-### Phase 1: Algorithmic Search Saturation (The Synthetic Citation Net)
+* **Phase 1: Algorithmic Search Saturation & Paid PR** | [View Full Paid PR Audit](DECEPTIVE_MARKETING_AUDIT.md)
+
 To prevent potential investors from uncovering past regulatory failures and delisting notices, OmniPhi deployed an intentional search-satiation strategy overseen by their official media contact, Nik Vassev, via his agency **Storyline Pros**.
 
 *   **The Workflow:** OmniPhi writes its own promotional corporate announcements and feeds them into paid wire aggregation networks such as **Accesswire** and **Newsfile Corp**.
@@ -18,7 +19,8 @@ To prevent potential investors from uncovering past regulatory failures and deli
 *   **The Intent:** This tactical flood forces highly optimized, product-favorable keywords to the top of search engine results, pushing independent investigations, historical SEC/ASC filings, and actual retail complaints deep into lower search tiers where the average user will never find them.
 *   **The Factual Reality:** Investigation verifies that **100% of OmniPhi AI's media presence is paid syndication**. There is absolutely zero genuine, organic, or independent editorial coverage from technology journalists or financial analysts. 
 
-### Phase 2: Trustpilot Astroturfing & Sentiment Manipulation
+* **Phase 2: Trustpilot Astroturfing & Sentiment Manipulation** | [View FTC Violations Matrix](FTC_COMPLIANCE_MATRIX.md)
+
 Before establishing an organic, live retail user base, the platform relied on fabricated public feedback to bypass standard consumer pre-contractual diligence loops.
 
 *   **The Footprint:** Open-source tracking flagged highly anomalous, coordinated positive-sentiment distribution curves across major public review directories like **Trustpilot**.
