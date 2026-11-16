@@ -1,9 +1,40 @@
 {
   "document_type": "Public Interest Consumer Investigation",
   "subject_entity": "OmniPhi AI",
+  "alternate_names": ["OmniPhi", "omniphi.ai", "Algoriphi, Inc."],
   "parent_company": "Algoriphi, Inc.",
-  "core_focus": "Deceptive marketing practices, astroturfing, and search engine optimization manipulation",
-  "key_individuals": ["Pouya Farmand", "Nikolai Vassev"],
-  "regulatory_context": "Re Floreani 2025 ABASC 129",
-  "summary": "Factual public archive tracking the synthetic PR campaigns, undisclosed influencer funnels, and corporate delisting histories associated with OmniPhi.ai leadership."
+  "corporate_jurisdiction": "Delaware, USA (Operating Base: Vancouver, BC; Virtual Mailbox: 2261 Market St, STE 70451, San Francisco, CA)",
+  "core_focus": "Deceptive marketing practices, astroturfing, search engine optimization manipulation, executive credential inflation, and omitted public-issuer track records",
+  "key_individuals": [
+    "Pouya Farmand",
+    "Ali Mokhtari",
+    "Nikolai Vassev"
+  ],
+  "related_entities_and_tickers": [
+    "Levitee Labs Inc. (CSE: LVT | OTC: LVTTF | FSE: 7H7)",
+    "Boundary Gold and Copper Mining Ltd. (TSXV: BDGC.H | OTC: PRZFF)",
+    "Gravitas Securities Inc.",
+    "Darkhorse Partners Inc.",
+    "Fibonacci Capital Corp.",
+    "Beeks Financial Cloud Group plc (AIM: BKS)",
+    "RiverFort Global Capital",
+    "Storyline Pros"
+  ],
+  "regulatory_context": [
+    "Re Floreani 2025 ABASC 129",
+    "Levitee Labs Inc. CSE Cease Trade Order (Bulletin 2023-0203) & Delisting (Bulletin 2026-0121)",
+    "Boundary Gold and Copper Mining Ltd. TSXV-NEX Demotion & Auditor Going Concern Warnings",
+    "Gravitas Securities Inc. IIROC Fine (2020 IIROC 05), OSC Suspension (2023) & CIRO Expulsion (2024 CIRO 69)",
+    "Beeks Financial Cloud Group plc AIM RNS Announcement (Oct 19, 2026 - Q3 FY2027 Target Launch)",
+    "FTC Endorsement & AI-Washing Guidelines / FINRA Unlicensed Advisory Perimeter"
+  ],
+  "audit_documents": [
+    "README.md",
+    "DECEPTIVE_MARKETING_AUDIT.md",
+    "EXECUTIVE_CHRONOLOGY_AND_ENTITY_AUDIT.md",
+    "FTC_COMPLIANCE_MATRIX.md",
+    "LEGAL_NOTICE.md"
+  ],
+  "summary": "Factual public archive tracking the synthetic PR campaigns, undisclosed influencer funnels, executive credential discrepancies, and public-company delisting and going-concern histories (Levitee Labs, Boundary Gold, Gravitas Securities) associated with OmniPhi.ai and Algoriphi, Inc. leadership.",
+  "last_updated": "2026-11-16"
 }
