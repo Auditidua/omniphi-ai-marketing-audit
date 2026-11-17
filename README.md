@@ -31,7 +31,7 @@ Before establishing an organic, live retail user base, the platform relied on fa
 OmniPhi heavily avoids traditional, transparent web landing pages that clearly display fee schedules, legal disclaimers, and corporate origins. Instead, they rely on friction-free, high-conversion social networks.
 
 *   **The Funnel Infrastructure:** The company contracts partner affiliate networks (such as `@getintoai`) to publish highly curated, high-production-value video clips showcasing "autonomous multi-million dollar AI trading scripts."
-*   **The Bait-and-Switch:** Captions instruct users to comment a specific keyword (e.g., "AI", "PHI", "TRADE") to gain exclusive access. The moment a user interacts, background automation scripts instantly blast an unrequested onboarding link straight into the user's private Direct Messages.
+*   **The Bait-and-Switch:** Captions instruct users to comment a specific keyword (e.g.,"BETA", "AI", "PHI", "TRADE") to gain exclusive access. The moment a user interacts, background automation scripts instantly blast an unrequested onboarding link straight into the user's private Direct Messages.
 *   **The Psychological Intent:** This bypasses the analytical thinking phase of a traditional web search. It creates an artificial sense of scarcity ("exclusive private beta access") and locks users into a rapid, friction-free onboarding sequence before they can research the platform’s complete lack of regulatory licensing.
 
 ### Phase 4: The 48-Hour Stripe Subscription Billing Trap
@@ -43,6 +43,11 @@ The endpoint of OmniPhi’s social media marketing pipeline is a highly aggressi
 
 ### Phase 5: The Narrative Reversal ("Democratization" vs. "Retail Guinea Pigs")
 The most profound marketing deception lies in the stark contradiction between OmniPhi’s public-facing retail narrative and its actual corporate capitalization strategy.
+
+### Phase 6: Executive Credential Inflation & Public-Issuer Track Record Omission
+To sustain the "institutional capital markets" narrative, OmniPhi's leadership biographies omit two prior distressed Canadian micro-cap executive roles while inflating banking tenure and capital-raised figures.
+* **Undisclosed Public-Company Roles:** Co-Founder Pouya Farmand previously served as CEO of **Levitee Labs Inc. (`CSE: LVT`)** (cease-traded Feb 2023; delisted Jan 2026) and CFO/Director of **Boundary Gold and Copper Mining Ltd. (`TSXV: BDGC.H`)** (NEX-demoted with auditor Going Concern warnings).
+* **Credential Math Conflict:** Despite graduating from Simon Fraser University in 2015 and working ~2 years at expelled dealer **Gravitas Securities Inc.**, biographies claim "10+ years Investment Banking experience" and escalate capital raised from **$50M** (2022) to **$700M+** (2026). See [EXECUTIVE_CHRONOLOGY_AND_ENTITY_AUDIT.md](./EXECUTIVE_CHRONOLOGY_AND_ENTITY_AUDIT.md).
 
 | Retail Marketing Narrative (Mid-2026) | Institutional Reality (October 2026) |
 | :--- | :--- |
@@ -58,3 +63,6 @@ When auditing any new marketing release or press push from Algoriphi Inc., inves
 1.  **Delaware Corporate Registry:** To verify active entity status against the virtual UPS Store drop location (**2261 Market Street, STE 70451, San Francisco, CA 94114**).
 2.  **Alberta Securities Commission (ASC):** Historical enforcement dossier ***Re Floreani*, 2025 ABASC 129** to track the leadership's established lineage of utilizing undisclosed paid promotional rings to capture retail capital.
 3.  **Canadian Securities Exchange (CSE):** Delisting and mandatory disclosure default logs for **Levitee Labs Inc.** to disprove marketing narratives of "highly successful, institutional algorithmic track records."
+4. **TSX Venture Exchange (NEX) / SEDAR+ (`Boundary Gold and Copper Mining Ltd. - BDGC.H`):** Verify Pouya Farmand's June 23, 2022 CFO/Director appointment, auditor "Going Concern" notes, and February 2025 resignation.
+5. **CIRO & Ontario Securities Commission (`Gravitas Securities Inc.`):** Review enforcement decision `2020 IIROC 05`, June 2023 capital-deficiency suspension, and August 7, 2024 expulsion (`2024 CIRO 69`).
+6. **London Stock Exchange (`Beeks Financial Cloud Group plc - AIM: BKS`):** Verify the October 19, 2026 RNS announcement confirming *Beeks Sovereign AI* is scheduled for **Q3 FY2027** deployment rather than immediate live production.
